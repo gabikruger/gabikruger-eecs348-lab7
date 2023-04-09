@@ -1,1 +1,4 @@
-# gabikruger-eecs348-lab7
+//EECS People Link
+
+https://people.eecs.ku.edu/~g658k761/
+
